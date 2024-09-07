@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sylva\\OneDrive\\Desktop\\.NET App\\API\\API.csproj": {}
+    "C:\\Users\\sylva\\OneDrive\\Desktop\\cppo_caravans_fork_anna\\_caravans firebase backend\\.NET-React-App\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sylva\\OneDrive\\Desktop\\.NET App\\API\\API.csproj": {
+    "C:\\Users\\sylva\\OneDrive\\Desktop\\cppo_caravans_fork_anna\\_caravans firebase backend\\.NET-React-App\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sylva\\OneDrive\\Desktop\\.NET App\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\sylva\\OneDrive\\Desktop\\cppo_caravans_fork_anna\\_caravans firebase backend\\.NET-React-App\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\sylva\\OneDrive\\Desktop\\.NET App\\API\\API.csproj",
+        "projectPath": "C:\\Users\\sylva\\OneDrive\\Desktop\\cppo_caravans_fork_anna\\_caravans firebase backend\\.NET-React-App\\API\\API.csproj",
         "packagesPath": "C:\\Users\\sylva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sylva\\OneDrive\\Desktop\\.NET App\\API\\obj\\",
+        "outputPath": "C:\\Users\\sylva\\OneDrive\\Desktop\\cppo_caravans_fork_anna\\_caravans firebase backend\\.NET-React-App\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sylva\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hNhVKairnYY=",
+  "dgSpecHash": "XrRq/GyMpE4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sylva\\OneDrive\\Desktop\\.NET App\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\sylva\\OneDrive\\Desktop\\cppo_caravans_fork_anna\\_caravans firebase backend\\.NET-React-App\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sylva\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\sylva\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.8\\microsoft.aspnetcore.openapi.8.0.8.nupkg.sha512",

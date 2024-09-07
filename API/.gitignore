@@ -1,0 +1,7 @@
+# Ignore the bin folder (relative to the current directory)
+bin/*
+obj/*
+
+# Ignore specific files in the current directory (like appsettings.json)
+appsettings.json
+appsettings.Development.json

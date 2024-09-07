@@ -15,7 +15,16 @@ builder.Services.AddControllers(); // part of the Dependency Injection (DI) setu
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddCors(); // adding the CORS DI
+
 var app = builder.Build();
+
+// Apply CORS policy here before (BEFORE!!!) other middleware like Swagger or Controllers
+app.UseCors(opt => {
+   opt.AllowAnyHeader()
+      .AllowAnyMethod()
+      .WithOrigins("http://localhost:3000"); // Make sure not to end with a trailing slash
+});
 
 // Configure the HTTP request pipeline. MIDDLEWARE.
 if (app.Environment.IsDevelopment())
