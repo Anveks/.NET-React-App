@@ -3,6 +3,7 @@ import Catalog from "../../features/catalog/Catalog";
 import Header from "./Header";
 import { ThemeProvider } from "@emotion/react";
 import { useState } from "react";
+import { Outlet } from "react-router-dom";
 
 function App() {
 
@@ -29,7 +30,7 @@ function App() {
       <Header darkMode={darkMode} onToggle={handleToggle} />
       <Container>
         {/* <Catalog products={products} addProduct={addProduct} /> */}
-        <Catalog />
+        <Outlet />
       </Container>
     </ThemeProvider>
   )
